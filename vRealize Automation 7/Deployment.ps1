@@ -1,7 +1,7 @@
 # Author: William Lam
 # Site: www.virtuallyghetto.com
 # Description: Script to deploy vRA 7 Virtual Appliance
-# Reference: http://www.virtuallyghetto.com/2016/02/automating-vrealize-automation-7-simple-install-part-1-vra-appliance-deployment.html
+# Reference: http://www.virtuallyghetto.com/2016/02/automating-vrealize-automation-7-minimal-install-part-1-vra-appliance-deployment.html
 
 # Load OVF/OVA configuration into a variable
 $ovffile = "C:\Users\primp\Desktop\VMware-vR-Appliance-7.0.0.1460-3311738_OVF10.ova"
